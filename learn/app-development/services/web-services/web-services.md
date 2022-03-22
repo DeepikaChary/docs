@@ -33,7 +33,7 @@ After importing a web-service, a **Variable** should be created for each method
 
 While binding a widget with a variable’s _dataSet_, it is assumed that the binding chain follows JSON structure and there is no array on any of the nodes. Any deviations to this structure should be addressed from the markup manually. In some cases, modification with _dataSet_ may be required, which needs to be done at the variable level. 
 
-For more information about about working with variables, see [Variables](/learn/app-development/variables/variables). And, see [How to create Variables for Web Service](/learn/app-development/variables/web-service/).  
+For more information about working with variables, see [Variables](/learn/app-development/variables/variables). And, see [How to create Variables for Web Service](/learn/app-development/variables/web-service/).  
 
 [![](/learn/assets/Var_create.png)](/learn/assets/Var_create.png)[![](/learn/assets/soap_var.png)](/learn/assets/soap_var.png)
 
